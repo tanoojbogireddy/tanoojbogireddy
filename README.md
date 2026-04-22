@@ -1,4 +1,4 @@
-# Hi, I'm Tanooj Bogireddy 
+# Hi, I'm Tanooj Reddy Bogireddy 
 
 AI Systems Engineer focused on **AI Engineering and Decision Intelligence**.
 
