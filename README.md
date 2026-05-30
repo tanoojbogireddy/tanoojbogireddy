@@ -1,18 +1,16 @@
 <div align="center">
 
-<h1>⚡ Tanooj Reddy Bogireddy</h1>
-<p><b>AI Systems Engineer | Agent Orchestration & Decision Intelligence</b></p>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EC8E3&background=0B132B&center=true&vCenter=true&width=700&height=30&lines=AI+Systems+Engineer+%7C+Agent+Orchestration+%7C+Growth+Analytics+Engineer)
 
-<br/>
+# ⚡ Tanooj Reddy Bogireddy
 
 [![Email](https://img.shields.io/badge/btr9347%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btr9347@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Tanooj%20Bogireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanooj-bogireddy/)
-[![Status](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-0077B5?style=for-the-badge)](mailto:btr9347@gmail.com)
+[![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-0077B5?style=for-the-badge)](mailto:btr9347@gmail.com)
 
 </div>
----
 
-## 🌐 Professional Focus // Agentic Architecture
+---
 
 I engineer at the intersection of **autonomous multi-agent orchestration loops**, **robust data backbones**, and **quantitative decision systems**. My focus is transforming highly unstructured, real-time data streams into high-reliability, autonomous production loops with strict determinism.
 
@@ -32,12 +30,13 @@ I engineer at the intersection of **autonomous multi-agent orchestration loops**
 
 ## 🚀 Quantified Production Impact
 
-┌──────────────────────────────────────────────────────────────────────┐
-│   80%  Reduction in manual prospecting via LLaMA-3.3-70B ICP engine  │
-│   60%  Reduction in manual analysis via competitor intelligence infra │
-│   40%  Increase in profile enrichment via FastAPI + Airflow pipelines │
-│   20%  Responsiveness optimization using Erlang C queuing models      │
-└──────────────────────────────────────────────────────────────────────┘
+| Impact | Metric | System |
+|---|---|---|
+| ![80%](https://img.shields.io/badge/80%25_Reduction-0077B5?style=flat-square) | Manual prospecting eliminated | LLaMA-3.3-70B ICP engine |
+| ![60%](https://img.shields.io/badge/60%25_Reduction-0D5C8C?style=flat-square) | Manual analysis eliminated | Competitor intelligence infra |
+| ![40%](https://img.shields.io/badge/40%25_Increase-1A7AB5?style=flat-square) | Profile data enrichment | FastAPI + Airflow pipelines |
+| ![20%](https://img.shields.io/badge/20%25_Optimized-2596BE?style=flat-square) | Responsiveness optimization | Erlang C queuing models |
+
 ---
 
 ## 🏗️ Active Production Systems
@@ -92,8 +91,8 @@ End-to-end growth analytics infrastructure: GA4 Analytics, GTM, and Google Searc
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat-square&logoColor=white)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent%20State%20Management-0077B5?style=flat-square)
-![Supervisor Routing](https://img.shields.io/badge/Supervisor%20Routing-0B132B?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20State%20Mgmt-0077B5?style=flat-square)
+![Supervisor Routing](https://img.shields.io/badge/Supervisor%20Routing-1E3A8A?style=flat-square)
 
 **AI & Backend Core**
 
@@ -103,26 +102,36 @@ End-to-end growth analytics infrastructure: GA4 Analytics, GTM, and Google Searc
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector%20Databases-6366F1?style=flat-square)
 
+**Growth Analytics & Search Intelligence**
+
+![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![GSC](https://img.shields.io/badge/Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![AEO](https://img.shields.io/badge/AEO%20%2F%20SAIO%20Intelligence-0077B5?style=flat-square)
+
 **Data & Infrastructure**
 
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-0B132B?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-1E3A8A?style=flat-square)
 
 **MLOps & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda%20Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda%20Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0077B5?style=flat-square)
 
 </div>
 
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A0DC,50:0077B5,100:0B132B&height=120&section=footer" />
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=3000&color=7EC8E3&background=0B132B&center=true&vCenter=true&width=750&height=40&lines=Open+to+AI+Engineering+%7C+Growth+Analytics+%7C+GTM+Intelligence+roles;Plano%2C+TX+%E2%80%94+btr9347%40gmail.com+%E2%80%94+linkedin.com%2Fin%2Ftanooj-bogireddy)
+
+[![Email](https://img.shields.io/badge/btr9347%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btr9347@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanooj-bogireddy/)
 
 </div>
-
