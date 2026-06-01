@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7EC8E3&background=0B132B&center=true&vCenter=true&width=700&height=30&lines=AI+Systems+Engineer+%7C+Agent+Orchestration+%7C+Growth+Analytics+Engineer)
 
 # ⚡ Tanooj Reddy Bogireddy
