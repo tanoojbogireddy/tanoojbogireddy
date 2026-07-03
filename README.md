@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/btr9347%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btr9347@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Tanooj%20Bogireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanooj-bogireddy/)
-[![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-0077B5?style=for-the-badge)](mailto:btr9347@gmail.com)
+[![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-0077B5?style=for-the-badge)](mailto:tanoojbreddy@gmail.com)
 
 </div>
 
